@@ -1,0 +1,6 @@
+account_id         = "YOUR_HARNESS_ACCOUNT_ID"
+api_key            = "YOUR_HARNESS_API_KEY"
+delegate_name      = "my-terraform-delegate"
+delegate_namespace = "harness-delegate"
+org_identifier     = "default"
+project_identifier = "default_project"
